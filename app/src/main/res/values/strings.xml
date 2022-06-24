@@ -103,4 +103,9 @@
     <!-- Call overlay -->
     <string name="call_overlay_enabled_title">Call overlay</string>
     <string name="call_overlay_enabled_summary">Show minimal call overlay to answer/reject calls</string>
+
+    <!-- Game Props -->
+    <string name="game_props_title">Use GameProps</string>
+    <string name="game_props_summary">Spoof your device as a different model for specific games to unlock higher FPS</string>
+
 </resources>
