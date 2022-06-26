@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "495b071b_5ef110da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1416
+      },
+      "writtenOn": "2022-06-26T15:22:36Z",
+      "side": 1,
+      "message": "Test:\n- Preference appears on the the activity\n- Prop values changes on toggling",
+      "revId": "c091922f09b6cdb93e4710b533c0c45224c463e5",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
