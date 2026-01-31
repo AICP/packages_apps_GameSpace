@@ -57,7 +57,7 @@ class SystemSettings @Inject constructor(
                 UserHandle.USER_CURRENT
             )
         }
-
+/*
     var threeScreenshot
         get() = Settings.System.getIntForUser(
             resolver, Settings.System.KEY_THREE_FINGERS_SWIPE_ACTION, 0,
@@ -69,7 +69,7 @@ class SystemSettings @Inject constructor(
                 value, UserHandle.USER_CURRENT
             )
         }
-
+*/
     var userGames
         get() =
             Settings.System.getStringForUser(
