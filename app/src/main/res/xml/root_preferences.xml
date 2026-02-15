@@ -93,7 +93,7 @@
             android:key="gamespace_adb_disabled"
             android:title="@string/adb_disabled_title" />
 
-        <com.aicp.gear.preference.SystemSettingSeekBarPreference
+        <com.aicp.gear.preference.SystemSettingSliderPreference
             android:key="gamespace_menu_opacity"
             android:title="@string/gamespace_menu_opacity_title"
             android:defaultValue="100"
